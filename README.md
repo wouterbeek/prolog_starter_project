@@ -20,9 +20,9 @@ Perform the following step to publish your own Prolog project in the
      .
   4. Run the following command in Prolog:
 
-    ```pl
-    pack_install('https://github.com/USER/REPO/archive/x.y.z.zip').
-    ```
+```pl
+pack_install('https://github.com/USER/REPO/archive/x.y.z.zip').
+```
 
 That's all folks!  Others can now reuse your project.
 
