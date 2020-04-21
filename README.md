@@ -3,6 +3,8 @@
 This is a very simple Prolog project that can be used as a template to
 build your own projects off of.
 
+This works with [SWI-Prolog](https://www.swi-prolog.org).
+
 ## How to publish
 
 Perform the following step to publish your own Prolog project in the
@@ -28,7 +30,8 @@ That's all folks!  Others can now reuse your project.
 
 ## How to find your project
 
-Others can install your project with the following command:
+Others can now install your project from within Prolog with the
+following command:
 
 ```
 pack_install(REPO).
