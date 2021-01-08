@@ -5,4 +5,4 @@ maintainer('Wouter Beek', 'wouter@triply.cc').
 name(prolog_starter_project).
 packager('Wouter Beek', 'wouter@triply.cc').
 title('Prolog Starter Project').
-version('1.0.3').
+version('1.0.4').
